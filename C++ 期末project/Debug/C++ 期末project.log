@@ -1,0 +1,45 @@
+﻿  main.cpp
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\map.h(28,21): warning C4018: '<': signed/unsigned 不相符
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\map.h(30,22): warning C4018: '<': signed/unsigned 不相符
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\map.h(67,21): warning C4018: '<': signed/unsigned 不相符
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Pokemon.h(73,21): warning C4018: '<': signed/unsigned 不相符
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(360,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(391,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(421,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(452,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(484,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(516,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(548,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(580,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(611,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(643,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(675,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(707,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(739,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(771,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(803,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(835,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(867,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(899,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(931,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(963,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(995,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(1026,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(1058,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(1090,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(1121,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(1152,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(1183,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(1214,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(1245,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(1276,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(1307,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(1338,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(1369,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(1401,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\main.cpp(13,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\player.h(74): warning C4715: 'Player::show_exit_message': 不是所有控制路徑都傳回值
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\catch.h(118): warning C4715: 'catching::get_catch_success': 不是所有控制路徑都傳回值
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\player.h(444): warning C4715: 'Player::find_gate': 不是所有控制路徑都傳回值
+C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\C++ 期末project\Attacks.h(36): warning C4715: 'Monster::gettype_num': 不是所有控制路徑都傳回值
+  C++ 期末project.vcxproj -> C:\XAMPP\htdocs\C++實習(二)\C++ 期末project\Debug\C++ 期末project.exe
